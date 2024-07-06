@@ -1,1 +1,1 @@
-<h1> Adicionando o arquivo de Readme no projeto 02.</h1>
+<h1> Adicionando o arquivo de Readme no projeto 02</h1>
